@@ -10,3 +10,36 @@ title: home
 <li>cats</li>
 <li>birds</li>
 </ul>
+
+<div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="https://www.w3schools.com/w3images/lights.jpg">
+        <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Lights" style="width:100%">
+        <div class="caption">
+          <p>Some information about this image</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="https://www.w3schools.com/w3images/nature.jpg">
+        <img src="https://www.w3schools.com/w3images/nature.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          <p>Some information about this image</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="https://www.w3schools.com/w3images/fjords.jpg">
+        <img src="https://www.w3schools.com/w3images/fjords.jpg" alt="Fjords" style="width:100%">
+        <div class="caption">
+          <p>Some information about this image</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
