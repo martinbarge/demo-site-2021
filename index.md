@@ -18,7 +18,7 @@ title: home
         <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Lights" style="width:100%">
          </a>
         <div class="caption">
-          <p>Some information about this image</p>
+          <p>Some information about the first image</p>
         </div>
      </div>
   </div>
@@ -38,7 +38,7 @@ title: home
         <img src="https://www.w3schools.com/w3images/fjords.jpg" alt="Fjords" style="width:100%">
          </a>
         <div class="caption">
-          <p>Some information about this image</p>
+          <p>Some information about the final image</p>
         </div>
     </div>
   </div>
