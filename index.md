@@ -15,7 +15,7 @@ title: home
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="https://www.w3schools.com/w3images/lights.jpg">
-        <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Lights" style="width:100%">
+        <img src="images/uk-shrink.png" alt="Lights" style="width:100%">
          </a>
         <div class="caption">
           <p>Some information about the first image</p>
@@ -25,7 +25,7 @@ title: home
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="https://www.w3schools.com/w3images/nature.jpg">
-        <img src="https://www.w3schools.com/w3images/nature.jpg" alt="Nature" style="width:100%">
+        <img src="images/flag.png" alt="Nature" style="width:100%">
          </a>
         <div class="caption">
           <p>Some information about this image</p>
@@ -35,7 +35,7 @@ title: home
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="https://www.w3schools.com/w3images/fjords.jpg">
-        <img src="https://www.w3schools.com/w3images/fjords.jpg" alt="Fjords" style="width:100%">
+        <img src="images/fish-chips.jpg" alt="Fjords" style="width:100%">
          </a>
         <div class="caption">
           <p>Some information about the final image</p>
