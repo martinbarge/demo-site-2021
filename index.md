@@ -20,8 +20,7 @@ title: home
         <div class="caption">
           <p>Some information about this image</p>
         </div>
-     
-    </div>
+     </div>
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
@@ -31,8 +30,7 @@ title: home
         <div class="caption">
           <p>Some information about this image</p>
         </div>
-     
-    </div>
+     </div>
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
@@ -42,7 +40,6 @@ title: home
         <div class="caption">
           <p>Some information about this image</p>
         </div>
-      </a>
     </div>
   </div>
 </div>
