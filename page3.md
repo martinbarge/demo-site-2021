@@ -2,7 +2,6 @@
 <h2>Example of 3 images in 3 columns with text below.</h2>
 <div class="row">
    <div class="col-sm-4">
-      <h3>Map of UK</h3>
       <img src="images/ukmap.png" alt="Map of United Kingdom" style="width:100%">
       <p class="figure-caption text-end">Figure 1: Map of UK</p>
       <p style="font-size:90%;">Attribution: <a href="https://commons.wikimedia.org/wiki/File:Uk_map.png">UKPhoenix79</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</p>
@@ -10,16 +9,14 @@
 </p>
       </div>
     <div class="col-sm-4">
-      <h3>Languages spoken around Great Britain</h3>
       <img src="images/englishlanguage.png" alt="Picture of languages spoken around Great Britain" style="width:100%">
       <p class="figure-caption text-end">Figure 2: English Language</p>
-      <p style="font-size:90%;">Attribution: <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7789850">Link</a></p>
+      <p style="font-size:90%;">Attribution: <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7789850">Wikimedia Commons</a></p>
       <p>Some text about the English language.</p>
       <p>Another paragraph.</p>
   </div>
    
     <div class="col-sm-4">
-      <h3>About the UK</h3>
       <img src="images/flag.png" alt="Flag of United Kingdom" style="width:100%">
       <p class="figure-caption text-end">Figure 3: English Language</p>
       <p style="font-size:90%;">Attribution: <a href="https://openclipart.org/detail/95269/union-flag">Open Clipart</a> by <a href="https://openclipart.org/artist/skotan">skotan</a> - uploaded on November 12, 2010, 7:37 pm</p>
