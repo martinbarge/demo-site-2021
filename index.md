@@ -12,23 +12,16 @@ title: home
 </ul>
 
 
-  <div class="row">
-    <div class="col-sm-4">
-      <h3>Column 1</h3>
-      <img src="images/uk-shrink.png" alt="Lights" style="width:90%">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-       <img src="images/flag.png" alt="Nature" style="width:90%">
-            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>Column 3</h3>   
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <img src="images/fish-chips.jpg" alt="Fjords" style="width:100%">
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
+<div class="row">
+   <div class="col-sm-4">
+      <h3></h3>
+      <img src="images/ukmap.png" alt="Map of United Kingdom" style="width:90%">
+      <p>Figure 1: Map of UK</p>
+      </div>
+    <div class="col-sm-8">
+      <h3>About the UK</h3>
+      <p>United Kingdom, island country located off the northwestern coast of mainland Europe. The United Kingdom comprises the whole of the island of Great Britain—which contains England, Wales, and Scotland—as well as the northern portion of the island of Ireland. The name Britain is sometimes used to refer to the United Kingdom as a whole. The capital is London, which is among the world’s leading commercial, financial, and cultural centres. Other major cities include Birmingham, Liverpool, and Manchester in England, Belfast and Londonderry in Northern Ireland, Edinburgh and Glasgow in Scotland, and Swansea and Cardiff in Wales.
+</p>
+      <p>Another paragraph.</p>
   </div>
+</div>
