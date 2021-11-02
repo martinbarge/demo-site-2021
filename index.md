@@ -17,6 +17,7 @@ title: home
       <h3></h3>
       <img src="images/ukmap.png" alt="Map of United Kingdom" style="width:100%">
       <p>Figure 1: Map of UK</p>
+      <p style="font-size:90%;">Attribution: <a href="https://commons.wikimedia.org/wiki/File:Uk_map.png">UKPhoenix79</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</p>
       </div>
     <div class="col-sm-8">
       <h3>About the UK</h3>
