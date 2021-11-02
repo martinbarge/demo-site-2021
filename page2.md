@@ -11,7 +11,7 @@ title: Page2
       <p>Another paragraph.</p>
       </div>
     <div class="col-sm-6">
-       <h3>About the wren</h3>
+       <h3>Splendid Fairy Wren</h3>
        <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Superb_fairy_wrens_mark_2.jpg" alt="A male and female splendid fairy wren sitting on a branch." style="width:100%">
       <p>Figure 1: Splendid Fairy Wren</p>
      <p style="font-size:80%;">Attribution:<a href="https://commons.wikimedia.org/wiki/File:Superb_fairy_wrens_mark_2.jpg">user:benjamint444</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons</p>
