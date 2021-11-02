@@ -1,6 +1,6 @@
 # --- Change what appears in the banner and meta data of your pages --- #
-title: My Language Learning Website
-description: This is the tag-line of my website.
+title: Martin''s Demonstration Site
+description: This is illustrates how to use the template.
 
 # --- Specify the language of site --- #
 lang: en
@@ -19,7 +19,7 @@ github:
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
   page1: Home
-  page2: Page2
+  page2: Birds
   page3: Page3
   page4: Page4
   page5: Page5
