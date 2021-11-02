@@ -15,7 +15,7 @@ title: home
 <div class="row">
    <div class="col-sm-4">
       <h3></h3>
-      <img src="images/ukmap.png" alt="Map of United Kingdom" style="width:90%">
+      <img src="images/ukmap.png" alt="Map of United Kingdom" style="width:100%">
       <p>Figure 1: Map of UK</p>
       </div>
     <div class="col-sm-8">
