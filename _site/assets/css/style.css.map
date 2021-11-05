@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"sourcesContent": [
+		"/*** EDIT ONLY BELOW HERE ***/\n\n/*** SET BODY STYLES ***/\nbody {\n\t/** font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; **/\n\tfont-size: 16px;\n\tline-height: 1.5;\n\tcolor: #606c71;\n}\n\n/* SET STYLES FOR BANNER */\n#jumbotron {\n\ttext-align: center;\n\tbackground: #392986;\n\tcolor: #0f2335;\n\tbackground-image: linear-gradient(90deg, #491de6, white, #991515);\n}\n\n/* Footer styles. Set black background color, white text and padding */\nfooter {\n      background-color: #555;\n      color: white;\n      padding: 15px;\n      text-align:center; \n}\n\n/* Footer link styles. */\nfooter a {\n\tcolor: #f7f7f7;\n\ttext-decoration: none;\n}\n\nfooter a:hover {\n\tcolor:#ccffcc;\n\ttext-decoration: underline;\n}\n\n"
+	],
+	"names": [],
+	"mappings": "AAAA,8BAA8B;AAE9B,yBAAyB;AACzB,AAAA,IAAI,CAAC,EACJ,iFAAiF,CACjF,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,GAAG,EAChB,KAAK,EAAE,OAAO,GACd;;AAED,2BAA2B;AAC3B,AAAA,UAAU,CAAC,EACV,UAAU,EAAE,MAAM,EAClB,UAAU,EAAE,OAAO,EACnB,KAAK,EAAE,OAAO,EACd,gBAAgB,EAAE,+CAA+C,GACjE;;AAED,uEAAuE;AACvE,AAAA,MAAM,CAAC,EACD,gBAAgB,EAAE,IAAI,EACtB,KAAK,EAAE,KAAK,EACZ,OAAO,EAAE,IAAI,EACb,UAAU,EAAC,MAAM,GACtB;;AAED,yBAAyB;AACzB,AAAA,MAAM,CAAC,CAAC,CAAC,EACR,KAAK,EAAE,OAAO,EACd,eAAe,EAAE,IAAI,GACrB;;AAED,AAAA,MAAM,CAAC,CAAC,CAAC,KAAK,CAAC,EACd,KAAK,EAAC,OAAO,EACb,eAAe,EAAE,SAAS,GAC1B"
+}

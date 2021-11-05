@@ -5,6 +5,15 @@ description: This is illustrates how to use the template.
 # --- Specify the language of site --- #
 lang: en
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/figure
+
 # --- List of pages in your site --- #
 # --- Only change these if you change the name of your .md files --- #
 # --- And, only change the names of the HTML files named after each colon: e.g. page2.html --- #
@@ -20,6 +29,6 @@ github:
 navbar-links:
   page1: Home
   page2: Birds
-  page3: Page3
-  page4: Page4
+  page3: 3 Columns
+  page4: Portugal
   page5: Page5

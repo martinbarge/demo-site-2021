@@ -1,0 +1,16 @@
+/*** EDIT ONLY BELOW HERE ***/
+/*** SET BODY STYLES ***/
+body { /** font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; **/ font-size: 16px; line-height: 1.5; color: #606c71; }
+
+/* SET STYLES FOR BANNER */
+#jumbotron { text-align: center; background: #392986; color: #0f2335; background-image: linear-gradient(90deg, #491de6, white, #991515); }
+
+/* Footer styles. Set black background color, white text and padding */
+footer { background-color: #555; color: white; padding: 15px; text-align: center; }
+
+/* Footer link styles. */
+footer a { color: #f7f7f7; text-decoration: none; }
+
+footer a:hover { color: #ccffcc; text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */
