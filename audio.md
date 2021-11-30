@@ -4,25 +4,23 @@ title: audio
 ---
 
 <h1>Example of audio embed, the HTML5 way.</h1> 
-<hr>
-
+<p id="part1">&nbsp;</p>
 <h2>1. The audio player</h2> 
-
-<audio controls id="part1"> 
+<audio controls> 
 <source src="https://martinbarge.github.io/sml5202-sts/assets/audio/FullExtract.ogg" type="audio/ogg"> 
 <source src="https://martinbarge.github.io/sml5202-sts/assets/audio/FullExtract.mp3" type="audio/mpeg">
 Your browser does not support the audio tag.
 </audio>
 
 <hr>
-
+<p id="part2">&nbsp;</p>
 <h2>2. H5P audio player</h2> 
-<p id="part2">H5P provides an audio player application, named 'Audio', to which you upload your audio file and then embed on your site, like so:</p>
+<p>H5P provides an audio player application, named 'Audio', to which you upload your audio file and then embed on your site, like so:</p>
 
 <iframe src="https://h5p.org/h5p/embed/439512" width="1090" height="65" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
-
+<p id="part3">&nbsp;</p>
 <h2>3. Other methods of playing audio</h2>
 <p id="part3">JavaScript includes the 'play()' method, enabling you call a function to play audio when a page element is clicked.</p>
 <p>The following are examples of page elements that play a sound when clicked.</p>
