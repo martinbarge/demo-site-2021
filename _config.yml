@@ -23,9 +23,7 @@ github:
   page3: page3.html
   page4: page4.html
   page5: page5.html
-  page6: audio.html
-  page7: song.html
-  page8: video.html
+  page6: audio-video.html
   
 # --- List of links in the navigation bar --- #
 # --- Change the words after the colons to change your navigation labels --- #
@@ -35,6 +33,4 @@ navbar-links:
   page3: 3 Column Layout
   page4: Portugal
   page5: H5P with Audio
-  page6: Audio Examples
-  Page7: Song
-  Page8: video Examples
+  page6: Audio-Video Examples
