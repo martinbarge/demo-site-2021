@@ -60,10 +60,19 @@ src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostafrikanisches_Spitzm
 </audio>
 -->
 
+<script>
+function playSound(soundObj) {
+var audio = new Audio(soundObj);
+audio.play();
+}
+</script>
+
 <!-- JavaScript Function -->
+<!--
 <script> 
 function playSound(soundobj) { 
 let thissound=document.getElementById(soundobj); 
 thissound.play();
 }
 </script>
+-->
