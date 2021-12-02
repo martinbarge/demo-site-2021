@@ -32,17 +32,18 @@ Your browser does not support the audio tag.
 <h3>ii) Buttons that play sounds when clicked</h3>
 
 <form> 
-<input id="submit" type="button" value="psychology" onClick="playSound('audio1')"> 
-<input id="submit" type="button" value="physiology" onClick="playSound('audio2')"> 
+<input id="submit" type="button" value="psychology" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/psych.mp3')"> 
+<input id="submit" type="button" value="physiology" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/physiology.mp3')"> 
 </form>
 
 <hr>
 <h3>iii) An image that plays a sound when clicked</h3>
-<a id="image" onClick="playSound('audio3')"><img
+<a id="image" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/rhino.mp3')"><img
 src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostafrikanisches_Spitzmaulnashorn.JPG" style="width:256px; cursor: pointer;" /></a> 
 <hr>
 
 <!--The Audio Elements -->
+<!--
 <audio id="audio1"> 
 <source src="https://martinbarge.github.io/sml5202-sts/assets/audio/psych.ogg" type="audio/ogg">
 <source src="https://martinbarge.github.io/sml5202-sts/assets/audio/psych.mp3" type="audio/mpeg"> 
@@ -57,6 +58,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostafrikanisches_Spitzm
 <source src="https://martinbarge.github.io/sml5202-sts/assets/audio/rhino.ogg" type="audio/ogg"> 
 <source src="https://martinbarge.github.io/sml5202-sts/assets/audio/rhino.mp3" type="audio/mpeg"> 
 </audio>
+-->
 
 <!-- JavaScript Function -->
 <script> 
