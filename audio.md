@@ -21,8 +21,8 @@ Your browser does not support the audio tag.
 
 <hr>
 <p id="part3">&nbsp;</p>
-<h2>3. Other methods of playing audio</h2>
-<p id="part3">JavaScript includes the 'play()' method, enabling you call a function to play audio when a page element is clicked.</p>
+<h2>3. Using JavaScript to play audio</h2>
+<p id="part3">JavaScript includes the <strong>'play()'</strong> method, enabling you call a function to play audio when a page element is clicked.</p>
 <p>The following are examples of page elements that play a sound when clicked.</p>
 
 <h3>i) Text that plays sound when clicked</h3>
