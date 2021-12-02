@@ -29,8 +29,8 @@ github:
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
   page1: Home
-  page2: Birds
-  page3: 3 Column Layout
-  page4: Portugal
+  page2: Interactive Map
+  page3: 3 Columns
+  page4: 2 Columns
   page5: H5P with Audio
   page6: Audio-Video Examples
