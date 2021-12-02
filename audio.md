@@ -51,7 +51,9 @@ audio.play();
 </script>
 
 <h3>Javascript Code</h3>
-<p>First, we create a simple JavaScript function to play sounds:</p>
+<p>The following code extracts illustrate how to attach sounds to page elements, using JavaScript.</p>
+
+<p>First, we need to include this simple JavaScript function to play sounds:</p>
 
 ```
 <script>
@@ -62,21 +64,27 @@ audio.play();
 </script>
 ```
 
-<p>Next we add the JavaScript function call to a page element.</p>
-<p>The first entry shows the function attached to a button object.</p>
+<p>Now we can call the JavaScript function from any page element. The following entries show how to do this.</p>
+
+<p>1. This first entry shows the function attached to a button object.</p>
 
 ```
 <input id="submit" type="button" value="psychology" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/psych.mp3')"> 
 ```
-<p>The next entry shows the function attached to a link text.</p>
+
+<p>2. This next entry shows the function attached to a link text.</p>
 
 ```
-<p>Some text such as <a href="#" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/psych.mp3');event.preventDefault();">psychology</a>.</p>
+<p><a href="#" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/psych.mp3');event.preventDefault();">LINK TEXT</a>.</p>
 ```
-<p>And the final extract shows the function attached to an image.</p>
+
+<p>3. This final extract shows the function attached to an image.</p>
 
 ```
-<a id="image" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/rhino.mp3')"><img
-src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostafrikanisches_Spitzmaulnashorn.JPG" style="width:256px; cursor: pointer;" /></a>
+<a id="image" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/rhino.mp3')">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostafrikanisches_Spitzmaulnashorn.JPG" style="width:256px; cursor: pointer;" />
+</a>
 ```
+<p>Try copying the javascript code into one of your pages, and then add the button code and see how it works.</p>
+<hr>
 
