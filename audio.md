@@ -26,7 +26,7 @@ Your browser does not support the audio tag.
 <p>The following are examples of page elements that play a sound when clicked.</p>
 
 <h3>i) Text that plays sound when clicked</h3>
-<p>Some text such as <a href="#" onClick="playSound('audio1');event.preventDefault();">psychology</a>.</p>
+<p>Some text such as <a href="#" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/psych.mp3');event.preventDefault();">psychology</a>.</p>
 
 <hr>
 <h3>ii) Buttons that play sounds when clicked</h3>
@@ -42,37 +42,10 @@ Your browser does not support the audio tag.
 src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostafrikanisches_Spitzmaulnashorn.JPG" style="width:256px; cursor: pointer;" /></a> 
 <hr>
 
-<!--The Audio Elements -->
-<!--
-<audio id="audio1"> 
-<source src="https://martinbarge.github.io/sml5202-sts/assets/audio/psych.ogg" type="audio/ogg">
-<source src="https://martinbarge.github.io/sml5202-sts/assets/audio/psych.mp3" type="audio/mpeg"> 
-</audio> 
-
-<audio id="audio2">
-<source src="https://martinbarge.github.io/sml5202-sts/assets/audio/physiology.ogg" type="audio/ogg">
-<source src="https://martinbarge.github.io/sml5202-sts/assets/audio/physiology.mp3" type="audio/mpeg"> 
-</audio> 
-
-<audio id="audio3"> 
-<source src="https://martinbarge.github.io/sml5202-sts/assets/audio/rhino.ogg" type="audio/ogg"> 
-<source src="https://martinbarge.github.io/sml5202-sts/assets/audio/rhino.mp3" type="audio/mpeg"> 
-</audio>
--->
-
+<!-- JavaScript Function -->
 <script>
 function playSound(soundObj) {
 var audio = new Audio(soundObj);
 audio.play();
 }
 </script>
-
-<!-- JavaScript Function -->
-<!--
-<script> 
-function playSound(soundobj) { 
-let thissound=document.getElementById(soundobj); 
-thissound.play();
-}
-</script>
--->
