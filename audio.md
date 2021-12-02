@@ -74,6 +74,7 @@ audio.play();
 <p>Some text such as <a href="#" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/psych.mp3');event.preventDefault();">psychology</a>.</p>
 ```
 <p>And the final extract shows the function attached to an image.</p>
+
 ```
 <a id="image" onClick="playSound('https://martinbarge.github.io/sml5202-sts/assets/audio/rhino.mp3')"><img
 src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostafrikanisches_Spitzmaulnashorn.JPG" style="width:256px; cursor: pointer;" /></a>
