@@ -19,6 +19,18 @@ body {
 	background-image: linear-gradient(90deg, #491de6, white, #991515);
 }
 
+/* CODE ENTRY STYLES */
+pre {
+	display: block;
+	margin-top: 0;
+	padding-left: 4px;
+	margin-bottom: 1rem;
+	overflow: auto;
+	font-size: .875em;
+	background-color: blanchedalmond;
+}
+
+
 /* Footer styles. Set black background color, white text and padding */
 footer {
       background-color: #555;
