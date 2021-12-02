@@ -55,14 +55,14 @@ audio.play();
 
 <p>First, we need to include this simple JavaScript function to play sounds:</p>
 
-```
+<code style="background-color:aliceblue;">
 <script>
 function playSound(soundObj) {
 var audio = new Audio(soundObj);
 audio.play();
 }
 </script>
-```
+</code>
 
 <p>Now we can call the JavaScript function from any page element. The following entries show how to do this.</p>
 
