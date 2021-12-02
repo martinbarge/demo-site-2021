@@ -4,7 +4,7 @@ title: "Portugal"
 ---
 
 <h1>Portugal</h1>
-<p>write your content in this file as you would normally</p>
+<p>This page also shows a two-column layout, but with equal width columns.</p>
 <div class="row">
 <div class="col-sm-6">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" style="width:100%"></p>
