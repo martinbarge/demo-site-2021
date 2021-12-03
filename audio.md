@@ -7,17 +7,29 @@ title: audio
 <p id="part1">&nbsp;</p>
 <h2>1. The audio player</h2> 
 <audio controls> 
-<source src="https://martinbarge.github.io/sml5202-sts/assets/audio/FullExtract.ogg" type="audio/ogg"> 
-<source src="https://martinbarge.github.io/sml5202-sts/assets/audio/FullExtract.mp3" type="audio/mpeg">
+<source src="https://martinbarge.github.io/demo-site-2021/audio/uk.mp3" type="audio/mpeg">
 Your browser does not support the audio tag.
 </audio>
+<p>The code to do this is:</p>
 
+```
+ <audio controls>
+  <source src="PATH TO FILE.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio> 
+
+```
+
+<p>Note: If you made the audio file yourself, then the file must be uploaded to your github area, and the link to it pasted into the 'PATH TO FILE' entry shown in the code above. For example, in my example, the path is: https://martinbarge.github.io/demo-site-2021/audio/uk.mp3 .</p>
+<p>Also, try to keep the names of your audio files short, descriptive, single-word and lowercase. It makes it so much easier! </p>
 <hr>
 <p id="part2">&nbsp;</p>
 <h2>2. H5P audio player</h2> 
 <p>H5P provides an audio player application, named 'Audio', to which you upload your audio file and then embed on your site, like so:</p>
 
 <iframe src="https://h5p.org/h5p/embed/439512" width="1090" height="65" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<p>Note: You won't find the Audio player item on the H5P website. However, you can click the 'reuse' link in my example above, download the H5P file and then upload it to your own H5P account and edit it there.</p>
 
 <hr>
 <p id="part3">&nbsp;</p>
