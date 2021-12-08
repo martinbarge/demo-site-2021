@@ -69,5 +69,10 @@ form.addEventListener('submit', handleSubmit);
 
 <hr>
 <div style="clear:both;"></div>
+
+<h2>Steps and code to include this feature.</h2>
+<p><a href="wikipedia-code.html">Visit this page</a> for basic instructions and code for this feature.</p>
+
+
 <div>
 	<p style="font-size: 86%;">Credit: The code for this application is derived from an excellent online tutorial by Ayooluwa Isaiah, a Web Technologies Software Developer based in Lagos, Nigeria. The tutorial can be followed <a href="https://freshman.tech/wikipedia-javascript/">here</a>.</p></div>
