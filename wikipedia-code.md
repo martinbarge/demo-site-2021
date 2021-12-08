@@ -23,7 +23,7 @@ title: wikipedia code
 }
 
 function fetchResults(searchQuery) {
-	  const endpoint = `https://en.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=20&srsearch=${searchQuery}`;
+	  const endpoint = `https://en.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=10&srsearch=${searchQuery}`;
   	fetch(endpoint)
   		.then(response => response.json())
   		.then(data => {
@@ -95,7 +95,7 @@ form.addEventListener('submit', handleSubmit);
   box-shadow: 0 1px 0 rgba(0,0,0,0.15);
   display: flex;
   align-items: center;
-  padding-left: 50px;
+ /* padding-left: 50px; */
 }
 
 .searchForm {
@@ -110,7 +110,7 @@ form.addEventListener('submit', handleSubmit);
   background-color: #f0f0f5;
   border: none;
   height: 44px;
-  width: 550px;
+ /* width: 550px; */
   padding: 5px 10px;
   color: #292929;
 }
@@ -137,9 +137,10 @@ form.addEventListener('submit', handleSubmit);
 
 .searchResults {
   padding: 20px 0 50px;
-  margin-left: 140px;
+  /*margin-left: 140px;*/
   margin-top: 2px;
-  width: 550px;
+  /* width: 550px;*/
+  width: 100%;
   text-align: left;
   background-color: white;
 }
