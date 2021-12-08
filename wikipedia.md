@@ -7,11 +7,11 @@ title: wikipedia
 <p>Note: In this example, it is placed within a column container. However, it can be simply included in a full page too.</p>
 
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-4">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" style="width:100%" /></p>
 <p>Flag of Portugal</p>
 </div>
-<div class="col-sm-6">
+<div class="col-sm-8">
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
