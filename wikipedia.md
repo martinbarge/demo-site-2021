@@ -2,7 +2,8 @@
 layout: default
 title: wikipedia
 ---
-
+<h1>Wikipedia search tool</h1>
+<p>This example searches the English Wikipedia site. Type a term into the box and see the results appear on this page.</p>
 
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
