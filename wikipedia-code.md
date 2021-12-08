@@ -72,7 +72,7 @@ form.addEventListener('submit', handleSubmit);
 <h2>Step 2</h2>
 <p>Change the language entries depending on your chosen Wikipedia language.</p>
 <p>Look at the code above. You will see two URL entries where the code states 'en.wikipedia.org'.</p>
-<p>You will need to change the 'en' to the language of your choice. A full list of languages can be found on <a href="https://en.wikipedia.org/wiki/Main_Page">the Wikipedia main page</a>.</p> For example, French is 'fr.wikipedia.org', Spanish 'es.wikipedia.org'.</p>
+<p>You will need to change the 'en' to the language of your choice. A full list of languages can be found on <a href="https://en.wikipedia.org/wiki/Main_Page">the Wikipedia main page</a>. For example, French is 'fr.wikipedia.org', Spanish 'es.wikipedia.org'.</p>
 
 
 <h2>Step 3</h2>
