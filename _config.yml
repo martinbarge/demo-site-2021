@@ -24,6 +24,7 @@ github:
   page4: page4.html
   page5: page5.html
   page6: audio-video.html
+  page7: wikipedia.html
   
 # --- List of links in the navigation bar --- #
 # --- Change the words after the colons to change your navigation labels --- #
@@ -34,3 +35,4 @@ navbar-links:
   page4: 2 Columns
   page5: H5P with Audio
   page6: Audio-Video Examples
+  page7: Search Wikipedia
