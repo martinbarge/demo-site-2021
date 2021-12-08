@@ -104,13 +104,14 @@ form.addEventListener('submit', handleSubmit);
   background-color: #292929;
   border: 1px solid #242424;
   border-radius: 4px;
+  /*width:80%;*/
 }
 
 .searchForm-input {
   background-color: #f0f0f5;
   border: none;
   height: 44px;
- /* width: 550px; */
+  width: 100%;
   padding: 5px 10px;
   color: #292929;
 }
@@ -137,9 +138,7 @@ form.addEventListener('submit', handleSubmit);
 
 .searchResults {
   padding: 20px 0 50px;
-  /*margin-left: 140px;*/
   margin-top: 2px;
-  /* width: 550px;*/
   width: 100%;
   text-align: left;
   background-color: white;
