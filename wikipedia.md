@@ -19,9 +19,6 @@ title: wikipedia
         <button type="submit" class="icon searchIcon">
           <img src="https://image.ibb.co/cpG8zk/search.png" alt="Magnifying Glass Icon">
         </button>
-        <a href="" class="icon randomIcon">
-          <img src="https://image.ibb.co/fR5OX5/random.png" alt="Shuffle Icon">
-        </a>
       </form>
 </header>
 <section class="searchResults"></section>
