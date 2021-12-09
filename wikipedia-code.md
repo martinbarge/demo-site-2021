@@ -82,13 +82,7 @@ form.addEventListener('submit', handleSubmit);
 </header>
 <section class="searchResults"></section>
 
-<div style="clear:both;"></div>
-
-<div><p style="font-size: 86%;">Credit: The code for this application is derived from an excellent online tutorial by Ayooluwa Isaiah, a Web Technologies Software Developer based in Lagos, Nigeria. The tutorial can be followed <a href="https://freshman.tech/wikipedia-javascript/">here</a>.</p></div>
-
 ```
-
-<p>Note: the last part of the above HTML is simply a reference to the code acknowledgement!. The important part is the searchResults section.</p>
 
 <h2>Step 4</h2>
 <p>Copy the following stylesheet code and paste it at the end of your assets/css/style.scss file:</p>
