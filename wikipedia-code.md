@@ -5,13 +5,12 @@ title: wikipedia code
 
 <h1>Wikipedia Search Codes</h1>
 <h2>Step 1</h2>
-<p>First copy the following code and paste it into one of your pages:</p>
+<p>First, make a new JavaScript file in your repository area and name it 'wiki.js'</p>
+<p>Next copy the following code and paste it into your wiki.js file:</p>
 
 ```
 
-<section class="searchResults"></section>
-<script>
-  function handleSubmit(event) {
+function handleSubmit(event) {
     // prevent page from reloading when form is submitted
   event.preventDefault();
   // get the value of the input field
@@ -57,15 +56,6 @@ console.log(results);
 }
 const form = document.querySelector('.searchForm');
 form.addEventListener('submit', handleSubmit);
-</script>
-
-<hr />
-
-<div style="clear:both;"></div>
-<div>
-	<p style="font-size: 86%;">Credit: The code for this application is derived from an excellent online tutorial by Ayooluwa Isaiah, a Web Technologies Software Developer based in Lagos, Nigeria. The tutorial can be followed <a href="https://freshman.tech/wikipedia-javascript/">here</a>.</p></div>
-
-</div>
 
 ```
 
@@ -74,8 +64,23 @@ form.addEventListener('submit', handleSubmit);
 <p>Look at the code above. You will see two URL entries where the code states 'en.wikipedia.org'.</p>
 <p>You will need to change the 'en' to the language of your choice. A full list of languages can be found on <a href="https://en.wikipedia.org/wiki/Main_Page">the Wikipedia main page</a>. For example, French is 'fr.wikipedia.org', Spanish 'es.wikipedia.org'.</p>
 
-
+<hr />
 <h2>Step 3</h2>
+<p>Next, copy this HTML code into one of your pages:</p>
+
+```
+
+<section class="searchResults"></section>
+<div style="clear:both;"></div>
+<div>
+	<p style="font-size: 86%;">Credit: The code for this application is derived from an excellent online tutorial by Ayooluwa Isaiah, a Web Technologies Software Developer based in Lagos, Nigeria. The tutorial can be followed <a href="https://freshman.tech/wikipedia-javascript/">here</a>.</p></div>
+</div>
+
+```
+
+<p>Note: the last part of the above HTML is simply a reference to the code acknowledgement!. The important part is the searchResults section.</p>
+
+<h2>Step 4</h2>
 <p>Copy the following stylesheet code and paste it at the end of your assets/css/style.scss file:</p>
 
 ```
@@ -218,6 +223,6 @@ form.addEventListener('submit', handleSubmit);
 
 ```
 
-<h2>Step 4</h2>
+<h2>Step 5</h2>
 <p>Commit all of your changes and test your Wikipedia search tool.</p>
 
